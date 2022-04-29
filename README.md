@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/dolomita28/four-card-feature-component)
+- Live Site URL: (https://dolomita28.github.io/four-card-feature-component/)
 
 ## My process
 
